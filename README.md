@@ -94,28 +94,10 @@ The scan is used to analyze authorized targets and identify information such as 
 
 ---
 
-# Project Structure
+---
 
-```text
-WEEK-2-RECONNAISSANCE/
-│
-├── README.md
-│
-├── Module-1.md
-│
-├── Module-2.md
-│
-├── Module-3.md
-│
-├── Zenmap.md
-│
-└── screenshots/
-    ├── 01-whois.png
-    ├── 02-whatweb.png
-    ├── 03-nslookup.png
-    ├── 04-curl.png
-    ├── 05-wafw00f.png
-    ├── 06-dnsrecon.png
-    ├── 07-ghdb.png
-    ├── 08-theharvester.png
-    └── 09-zenmap.png
+# Author
+
+## Prithvika
+
+**Student | Cybersecurity Enthusiast**
